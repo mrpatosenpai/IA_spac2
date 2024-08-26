@@ -4,4 +4,3 @@ mediapipe
 mysql-connector-python
 numpy
 opencv-python
-cv2
