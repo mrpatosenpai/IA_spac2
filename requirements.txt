@@ -3,4 +3,4 @@ gunicorn
 mediapipe
 mysql-connector-python
 numpy
-opencv
+opencv-python
